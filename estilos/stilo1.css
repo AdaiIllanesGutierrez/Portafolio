@@ -508,3 +508,55 @@ button:hover{
   .swiper-button-prev{
       left: 26px !important;
   }
+
+  .cuadros{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cuadros:hover{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.rgb{
+    margin: 0%;
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 500px;
+    text-align: center;
+    border-radius: 5%;
+    background-color: rgba(122, 244, 255, 0.331);
+}
+.rgbImagen{
+    margin-left: 35%;
+    margin-top: -15%;
+    position: absolute;
+}
+.rgba{
+    margin: 0%;
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 500px;
+    text-align: center;
+    border-radius: 5%;
+    background-color: rgba(122, 244, 255, 0.331);
+}
+.rgbaImagen{
+    width:50%;
+    position:absolute;
+    margin-left: 35%;
+    margin-top: -15%;
+}
+.rgbaImagen img{
+    height: 200px;
+    border-radius: 150px;
+}
+.hexadecimal{
+    margin: 0%;
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 500px;
+    text-align: center;
+    border-radius: 5%;
+    background-color: rgba(122, 244, 255, 0.331);
+}
